@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    max-width: 1080px;
+    margin: auto;
+}
+header{
+background-color: antiquewhite;
+color: black;
+}
+p{
+    font-size:50px;
+}
+.item{
+    border-radius: 2px;
+}
